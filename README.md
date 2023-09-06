@@ -6,7 +6,7 @@ reward distribution
 
 initial skill
 
-<img width="377" alt="스크린샷 2023-09-06 16 49 35" src="https://github.com/kkugosu/ppo_demo/assets/24292848/84079050-75d8-4dad-9e92-cf00a513c01f">
+<img width="224" alt="스크린샷 2023-09-06 16 49 35" src="https://github.com/kkugosu/ppo_demo/assets/24292848/84079050-75d8-4dad-9e92-cf00a513c01f">
 
 trained skill
 
